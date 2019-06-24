@@ -2,22 +2,21 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
+<img style="float: left; margin: 0px 15px 15px 0px;" src="/assets/images/profile.jpg" width="100%" />
+<p>I grew up in Maryland, mostly in the suburbs of Washington, D.C. I did my undergraduate work at Northwestern University, where I got my start in neuroscience working in David McLean's lab studying spinal locomotor circuits in zebrafish. After that, I spent a year working and traveling before moving to the San Francisco Bay Area to start graduate school at UC Berkeley. I was one of the first people to join Hillel Adesnik's lab, where I studied how different inhibitory cell-types/circuits in the mouse barrel cortex contribute to sensory processing. After graduation, I started an industry postdoc position with David Hackos in the neuroscience department at Genentech, where I study the circuit mechanisms of chronic pain in the mouse spinal cord. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> I try to keep active with an ever-shifting combination of climbing, lifting, biking, hiking, and ultimate. I like board games, especially strategy games. I'm a pretty frequent reader and try to keep a roughly equal balance between 'real' books and guilty pleasure sci-fi, with a healthy dose of glossy magazines sprinkled in for good measure. For a brief period of time, I was the holder of the 51st highest global score in <a href="https://http://doge2048.com/">Doge2048</a>. 
+ </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> I have a fairly active twitter account, <a href="https://twitter.com/gottapatchemall">@gottapatchemall</a>. As the handle suggests, this account very specifically caters to the burgeoning demographic group at the intersection of the set of people who like electrophysiology and the set of people who like pokemon. Many of my tweets are about new papers - I really enjoy keeping on top of the latest scientific literature and am a big believer in the idea that "a month in the laboratory can save an hour in the library." But I throw some slice-of-life stuff and cute animals in there too. 
+ </p>
 
+ 
+
+ <a class="twitter-timeline" href="https://twitter.com/gottapatchemall?ref_src=twsrc%5Etfw">Tweets by gottapatchemall</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- 
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -43,4 +42,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
