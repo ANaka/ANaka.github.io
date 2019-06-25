@@ -14,7 +14,7 @@ layout: page
 
  
 
- <a class="twitter-timeline" href="https://twitter.com/gottapatchemall?ref_src=twsrc%5Etfw">Tweets by gottapatchemall</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <a class="twitter-timeline" data-theme="light" data-link-color="#981CEB" href="https://twitter.com/gottapatchemall?ref_src=twsrc%5Etfw">Tweets by gottapatchemall</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- 
 <h2>Skills</h2>
