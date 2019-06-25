@@ -116,7 +116,4 @@ exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.
 
 collections:
   - pubs
-  
-sass:
-  sass_dir: _sass
-  style: compressed
+
