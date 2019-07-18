@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - twitter
 - python
-star: true
 category: blog
 author: alexnaka
 description: 

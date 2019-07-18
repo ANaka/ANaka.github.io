@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - twitter
 - science
-star: true
 category: blog
 author: naka
 description: 
@@ -91,7 +90,7 @@ e.g. they generate location-tagged tweets from randomly generated locations fall
 ![](/assets/images/2019-06-26-do-twitter-bots-dream-of-electric-twitter-sheep/2019-06-26-12-05-58.png)
 
 How much do bots matter?
-[This](www.eecs.qmul.ac.uk/~tysong/files/TWEB19.pdf) is a pretty interesting study on the structure of botnets and how they impact the activity of human networks. Bots apparently upload a ton of the media content that gets onto twitter
+[This](https://www.eecs.qmul.ac.uk/~tysong/files/TWEB19.pdf) is a pretty interesting study on the structure of botnets and how they impact the activity of human networks. Bots apparently upload a ton of the media content that gets onto twitter
 ![](/assets/images/2019-06-26-do-twitter-bots-dream-of-electric-twitter-sheep/2019-06-26-12-15-21.png)
 but bots and humans seem to exhibit very strong homophily in their interactions on twitter - bots mostly talk to bots, and humans mostly talk to humans. 
 ![](/assets/images/2019-06-26-do-twitter-bots-dream-of-electric-twitter-sheep/2019-06-26-12-24-49.png)

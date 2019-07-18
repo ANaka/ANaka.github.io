@@ -99,6 +99,9 @@ show-author: true
 # do you want some animations?
 animation: true
 
+kramdown:
+  math_engine: mathjax
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
