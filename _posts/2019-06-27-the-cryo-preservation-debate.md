@@ -25,7 +25,7 @@ My TL;DR - Hayworth argues we can probably preserve brains in a way that would m
 
 One thing I'm struck by here is the implication that if we preserve our brains now, future generations might one day see fit to revive us and thus give us a second chance at life. My gut reaction to this is that it sounds extremely optimistic about how altruistic people in the future will be toward dead generations. If the attitude of the currently living population toward yet-unborn generations is any kind of indicator, it seems likely that people of the future will give very few fucks about spending any effort to help those who are already dead. But I suppose it can't hurt to be hopeful. 
 
-
+Anyway, enjoy!
 
 ![](/assets/images/2019-06-27-the-cryo-preservation-debate/2019-06-26-22-48-14.png)
 ![](/assets/images/2019-06-27-the-cryo-preservation-debate/2019-06-26-22-55-29.png)

@@ -11,7 +11,6 @@ tag:
 - theory
 - neocortex
 - experiment
-star: true
 category: blog
 author: naka
 description: 
