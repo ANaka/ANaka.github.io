@@ -29,4 +29,4 @@ on this, writing up here just as a cheatsheet since I'm starting to use them a l
 `scp -r -i /path/to/pem_file.pem /path/to/source_dir ec2-user@ec2-01-234-56-789.us-west-1-compute.amazonaws.com:~/path/to/destination_dir`
 
 #### If permissions for .pem file are too open
-`chmod /path/to/pem_file.pem 400`
+`chmod 400 /path/to/pem_file.pem`
