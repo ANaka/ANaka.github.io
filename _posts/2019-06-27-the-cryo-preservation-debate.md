@@ -12,7 +12,7 @@ tag:
 category: blog
 author: naka
 description: 
-hidden: false
+hidden: True
 ---
 
 I spotted a long exchange between Ken Miller and Kenneth Hayworth on twitter the other day. The discussion is apropos of an op-ed Ken wrote for the New York Times a few years back in which he argues that [cryopreserving your brain is probably a waste of time.](https://www.nytimes.com/2015/10/11/opinion/sunday/will-you-ever-be-able-to-upload-your-brain.html) Hayworth takes the more optimistic view that it might one day be possible to reconstruct the memories and/or mind of a cryopreserved brain, albeit in a distant future where neuroscience has more or less been solved. 

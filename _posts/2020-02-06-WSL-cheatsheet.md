@@ -15,3 +15,7 @@ hidden: True
 ---
 Because I do this all the time
 `sudo mount -t drvfs '\\10.100.104.7\shared' /mnt/r`
+
+Actually, it is smartest to put that line into
+`/etc/bash.bashrc`
+so that you don't have to do it every time
