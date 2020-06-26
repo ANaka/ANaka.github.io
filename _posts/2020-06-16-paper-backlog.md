@@ -12,13 +12,15 @@ description:
 hidden: False
 ---
 
-In light of the BLM protests, I took a hiatus from posting papers on Twitter. I kept looking at papers and saving links during this time though; here's stuff that looked interesting to me between 5/31/20 and 6/16/20.
+In light of the BLM protests, I took a hiatus from posting papers on Twitter. I kept looking at papers and saving links during this time though; here's stuff that looked interesting to me between 5/31/20 and 6/17/20.
+
+:heavy_check_mark: = Tweeted
 
 5/31/20
 
-- [Motor corollary discharge activates layer six circuits in the auditory cortex](https://www.biorxiv.org/content/10.1101/2020.05.28.121459v1)
+- [Motor corollary discharge activates layer six circuits in the auditory cortex](https://www.biorxiv.org/content/10.1101/2020.05.28.121459v1) :heavy_check_mark:
 - [Adaptive Efficient Coding: A Variational Auto-encoder Approach](https://www.biorxiv.org/content/10.1101/2020.05.29.124453v1)
-- [Adaptive optics two-photon endomicroscopy enables deep brain imaging at synaptic resolution over large volumes](https://www.biorxiv.org/content/10.1101/2020.05.29.124727v1)
+- [Adaptive optics two-photon endomicroscopy enables deep brain imaging at synaptic resolution over large volumes](https://www.biorxiv.org/content/10.1101/2020.05.29.124727v1) :heavy_check_mark:
 
 6/1/20
 - [Gap junction mediated feed-forward inhibition ensures ultra precise temporal patterning in vocal behavior](https://www.biorxiv.org/content/10.1101/2020.05.27.119339v1)
@@ -32,8 +34,8 @@ In light of the BLM protests, I took a hiatus from posting papers on Twitter. I 
 - [Neuronal Inactivity Co-opts LTP Machinery to Drive Potassium Channel Splicing and Homeostatic Spike Widening](https://www.cell.com/cell/fulltext/S0092-8674(20)30575-4?rss=yes)
 - [Large-scale color biases in the retinotopic functional architecture are shared across human brains](https://www.biorxiv.org/content/10.1101/2020.05.31.126532v1)
 - [Heterogeneous somatostatin-expressing neuron population in mouse ventral tegmental area](https://www.biorxiv.org/content/10.1101/2020.05.28.120592v1)
-- [Temperature compensation in a small rhythmic circuit](https://elifesciences.org/articles/55470)
-- [The mechanism of analgesia in Nav1.7 null mutants](https://www.biorxiv.org/content/10.1101/2020.06.01.127183v1)
+- [Temperature compensation in a small rhythmic circuit](https://elifesciences.org/articles/55470) :heavy_check_mark:
+- [The mechanism of analgesia in Nav1.7 null mutants](https://www.biorxiv.org/content/10.1101/2020.06.01.127183v1) :heavy_check_mark:
 - [Voltage-gated Ca2+ and K+ channel coupling regulates CA1 hippocampal synaptic filtering and spine excitability](https://www.biorxiv.org/content/10.1101/2020.05.27.119305v1)
 - [The neural representation of force across grasp types in motor cortex of humans with tetraplegia](https://www.biorxiv.org/content/10.1101/2020.06.01.126755v1)
 
@@ -44,7 +46,7 @@ In light of the BLM protests, I took a hiatus from posting papers on Twitter. I 
 - [Postingestive Modulation of Food Seeking Depends on Vagus-Mediated Dopamine Neuron Activity](https://www.cell.com/neuron/fulltext/S0896-6273(20)30216-6?rss=yes)
 - [Functional specification of CCK+ interneurons by alternative isoforms of Kv4.3 auxiliary subunits](https://elifesciences.org/articles/58515)
 - [Mathematical models for pain: a systematic review](https://arxiv.org/abs/2006.01745)
-- [Neuronal activity in sensory cortex predicts the specificity of learning.](https://www.biorxiv.org/content/10.1101/2020.06.02.128702v1)
+- [Neuronal activity in sensory cortex predicts the specificity of learning.](https://www.biorxiv.org/content/10.1101/2020.06.02.128702v1) :heavy_check_mark:
 - [A physiological role for GABAA receptor desensitization – induction of long-term potentiation at inhibitory synapses](https://www.biorxiv.org/content/10.1101/2020.06.02.128900v1)
 - [A map of object space in primate inferotemporal cortex](https://www.nature.com/articles/s41586-020-2350-5)
 - [Potential circadian effects on translational failure for neuroprotection](https://www.nature.com/articles/s41586-020-2348-z)
@@ -56,7 +58,7 @@ In light of the BLM protests, I took a hiatus from posting papers on Twitter. I 
 - [Microstructural organization of human insula is linked to its macrofunctional circuitry and predicts cognitive control](https://elifesciences.org/articles/53470)
 - [Feedback contribution to surface motion perception in the human early visual cortex](https://elifesciences.org/articles/50933)
 - [Small dendritic synapses enhance temporal coding in a model of cochlear nucleus bushy cells](https://www.biorxiv.org/content/10.1101/2020.06.03.131516v1?rss=1)
-- [Activity-dependent tuning of intrinsic excitability in mouse and human neurogliaform cells](https://elifesciences.org/articles/57571)
+- [Activity-dependent tuning of intrinsic excitability in mouse and human neurogliaform cells](https://elifesciences.org/articles/57571) :heavy_check_mark:
 - [Information theoretic approaches to deciphering the neural code with functional fluorescence imaging](https://www.biorxiv.org/content/10.1101/2020.06.03.131870v1)
 - [Restoring light sensitivity using tunable near-infrared sensors](https://science.sciencemag.org/content/368/6495/1108.full)
 - [Discriminating between negative cooperativity and ligand binding to independent sites using pre-equilibrium properties of binding curves](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007929)
@@ -180,3 +182,17 @@ In light of the BLM protests, I took a hiatus from posting papers on Twitter. I 
 - [Postmitotic Hoxa5 Expression Specifies Pontine Neuron Positional Identity and Input Connectivity of Cortical Afferent Subsets](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30747-6?rss=yes)
 - [Brain Circuit of Claustrophobia-like Behavior in Mice Identified by Upstream Tracing of Sighing](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30759-2?rss=yes)
 - [Pupil-linked phasic arousal predicts a reduction of choice bias across species and decision domains](https://elifesciences.org/articles/54014)
+- [System Identification with Biophysical Constraints: A Circuit Model of the Inner Retina](https://www.biorxiv.org/content/10.1101/2020.06.16.154203v1)
+- [The sensorimotor strategies and neuronal representations of tactile shape discrimination in mice](https://www.biorxiv.org/content/10.1101/2020.06.16.126631v1)
+- [Multilayer network analysis of C. elegans: Looking into the locomotory circuitry](https://arxiv.org/abs/2006.08771)
+- [Variational Bayesian Monte Carlo with Noisy Likelihoods](https://arxiv.org/abs/2006.08655)
+- [Instance-level contrastive learning yields human brain-like representation without category-supervision](https://www.biorxiv.org/content/10.1101/2020.06.15.153247v1)
+
+6/17/20
+- [Ca2+ entry through NaV channels generates submillisecond axonal Ca2+ signaling](https://elifesciences.org/articles/54566)
+- [Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations](https://www.biorxiv.org/content/10.1101/2020.06.16.154542v1?rss=1)
+- [Dissociation of task engagement and arousal effects in auditory cortex and midbrain](https://www.biorxiv.org/content/10.1101/2020.06.16.155432v1)
+- [Circuits with broken fibration symmetries perform core logic computations in biological networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007776)
+- [Prefrontal Cortex Predicts State Switches during Reversal Learning](https://www.cell.com/neuron/fulltext/S0896-6273(20)30231-2?rss=yes)
+- [Two Functionally Distinct Serotonergic Projections into Hippocampus](https://www.jneurosci.org/content/40/25/4936)
+- [Potentiation of Divergent Medial Amygdala Pathways Drives Experience-Dependent Aggression Escalation](https://www.jneurosci.org/content/40/25/4858)
