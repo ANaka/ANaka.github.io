@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+hidden: True
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 <img style="float: left; margin: 0px 15px 15px 0px;" src="/assets/images/profile.jpg" width="100%" />
